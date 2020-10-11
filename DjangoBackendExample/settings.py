@@ -25,7 +25,7 @@ SECRET_KEY = '7@cer@_%ghhewftw3=6e^++4ibhizt6=0m#6!a**3#0zl%7z6g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["django-colatics.herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["django-post-example.herokuapp.com", "localhost"]
 
 
 # Application definition
