@@ -1,1 +1,1 @@
-web: gunicorn djangocolatics.wsgi
+web: gunicorn DjangoBackendExample.wsgi
